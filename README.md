@@ -1,35 +1,119 @@
-## Hi there 👋
+<!-- Hero Section -->
+<div align="center">
+  <br/>
+  <h1>Hizbullah Hasan Ibrahim</h1>
+  <p>
+    Frontend Developer  ·  UI/UX Designer  ·  Full-Stack Enthusiast
+  </p>
 
-<!--
-**HizbullahHasanIbrahim/HizbullahHasanIbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/HizbullahHasanIbrahim">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=15&duration=3200&pause=1200&color=86868B¢er=true&vCenter=true&width=520&lines=Building+interactive+web+experiences.;Crafting+clean+interfaces+and+scalable+systems.;Always+learning%2C+designing%2C+and+shipping." alt="Tagline" />
+  </a>
 
-Here are some ideas to get you started:
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Socials & Views -->
+  <p>
+    <a href="https://facebook.com/hasan.ibra.775" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1D1D1F?style=flat&logo=facebook&logoColor=F5F5F7" alt="Facebook" />
+    </a>
+    <a href="https://instagram.com/hasan_h5n" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-1D1D1F?style=flat&logo=instagram&logoColor=F5F5F7" alt="Instagram" />
+    </a>
+    <a href="https://tiktok.com/@hzbyyyyhhh" target="_blank">
+      <img src="https://img.shields.io/badge/TikTok-1D1D1F?style=flat&logo=tiktok&logoColor=F5F5F7" alt="TikTok" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=HizbullahHasanIbrahim&label=Views&color=2997FF&style=flat" alt="Profile Views" />
+  </p>
+</div>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hasan.ibra.775) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@hasan_h5n) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@hzbyyyyhhh) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HizbullahHasanIbrahim&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=HizbullahHasanIbrahim&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HizbullahHasanIbrahim&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HizbullahHasanIbrahim&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=HizbullahHasanIbrahim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+### About
+
+```ts
+const developer = {
+  name: "Hizbullah Hasan Ibrahim",
+  alias: "HZB",
+  role: "Frontend Developer & UI/UX Designer",
+  code: ["TypeScript", "JavaScript", "Python", "PHP", "Bash"],
+  focus: ["Interactive Web", "UI/UX Design", "System Architecture"],
+  currentlyLearning: "Scaling modern web apps & interactive animations",
+  askMeAbout: "React, Next.js, Astro, Laravel, atau desain di Figma",
+  funFact: "Kopi + kode yang jalan di percobaan pertama = kebahagiaan hakiki"
+};
+```
+
+<br/>
+
+### Featured Projects
+
+<div align="center">
+  <a href="https://github.com/HizbullahHasanIbrahim/Porto-Pixel">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HizbullahHasanIbrahim&repo=Porto-Pixel&bg_color=161617&title_color=F5F5F7&text_color=A1A1A6&icon_color=2997FF&border_color=2C2C2E&border_radius=14" alt="Porto-Pixel" />
+  </a>
+   
+  <!-- Ganti NAMA-REPO-LAIN dengan nama repositori publik lainnya -->
+  <a href="https://github.com/HizbullahHasanIbrahim/NAMA-REPO-LAIN">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HizbullahHasanIbrahim&repo=NAMA-REPO-LAIN&bg_color=161617&title_color=F5F5F7&text_color=A1A1A6&icon_color=2997FF&border_color=2C2C2E&border_radius=14" alt="Featured Project 2" />
+  </a>
+</div>
+
+<br/>
+
+### Tech Stack
+
+<details open>
+  <summary>Lihat daftar teknologi</summary>
+  <br/>
+
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-1D1D1F?style=flat&logo=typescript&logoColor=F5F5F7) ![JavaScript](https://img.shields.io/badge/JavaScript-1D1D1F?style=flat&logo=javascript&logoColor=F5F5F7) ![Python](https://img.shields.io/badge/Python-1D1D1F?style=flat&logo=python&logoColor=F5F5F7) ![PHP](https://img.shields.io/badge/PHP-1D1D1F?style=flat&logo=php&logoColor=F5F5F7) ![HTML5](https://img.shields.io/badge/HTML5-1D1D1F?style=flat&logo=html5&logoColor=F5F5F7) ![CSS3](https://img.shields.io/badge/CSS3-1D1D1F?style=flat&logo=css3&logoColor=F5F5F7) ![Bash Script](https://img.shields.io/badge/Bash-1D1D1F?style=flat&logo=gnu-bash&logoColor=F5F5F7) ![Markdown](https://img.shields.io/badge/Markdown-1D1D1F?style=flat&logo=markdown&logoColor=F5F5F7) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-1D1D1F?style=flat&logo=react&logoColor=F5F5F7) ![Next.js](https://img.shields.io/badge/Next.js-1D1D1F?style=flat&logo=next.js&logoColor=F5F5F7) ![Vue.js](https://img.shields.io/badge/Vue.js-1D1D1F?style=flat&logo=vuedotjs&logoColor=F5F5F7) ![Angular](https://img.shields.io/badge/Angular-1D1D1F?style=flat&logo=angular&logoColor=F5F5F7) ![Angular.js](https://img.shields.io/badge/Angular.js-1D1D1F?style=flat&logo=angularjs&logoColor=F5F5F7) ![Astro](https://img.shields.io/badge/Astro-1D1D1F?style=flat&logo=astro&logoColor=F5F5F7) ![Vite](https://img.shields.io/badge/Vite-1D1D1F?style=flat&logo=vite&logoColor=F5F5F7) |
+| **Backend & Server** | ![Node.js](https://img.shields.io/badge/Node.js-1D1D1F?style=flat&logo=node.js&logoColor=F5F5F7) ![Laravel](https://img.shields.io/badge/Laravel-1D1D1F?style=flat&logo=laravel&logoColor=F5F5F7) ![NPM](https://img.shields.io/badge/NPM-1D1D1F?style=flat&logo=npm&logoColor=F5F5F7) ![Nginx](https://img.shields.io/badge/Nginx-1D1D1F?style=flat&logo=nginx&logoColor=F5F5F7) ![Apache](https://img.shields.io/badge/Apache-1D1D1F?style=flat&logo=apache&logoColor=F5F5F7) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1D1D1F?style=flat&logo=postgresql&logoColor=F5F5F7) ![MySQL](https://img.shields.io/badge/MySQL-1D1D1F?style=flat&logo=mysql&logoColor=F5F5F7) ![MariaDB](https://img.shields.io/badge/MariaDB-1D1D1F?style=flat&logo=mariadb&logoColor=F5F5F7) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-1D1D1F?style=flat&logo=numpy&logoColor=F5F5F7) ![Pandas](https://img.shields.io/badge/Pandas-1D1D1F?style=flat&logo=pandas&logoColor=F5F5F7) ![Plotly](https://img.shields.io/badge/Plotly-1D1D1F?style=flat&logo=plotly&logoColor=F5F5F7) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-1D1D1F?style=flat&logo=figma&logoColor=F5F5F7) ![Framer](https://img.shields.io/badge/Framer-1D1D1F?style=flat&logo=framer&logoColor=F5F5F7) ![Canva](https://img.shields.io/badge/Canva-1D1D1F?style=flat&logo=Canva&logoColor=F5F5F7) ![Docker](https://img.shields.io/badge/Docker-1D1D1F?style=flat&logo=docker&logoColor=F5F5F7) ![Git](https://img.shields.io/badge/Git-1D1D1F?style=flat&logo=git&logoColor=F5F5F7) ![GitHub](https://img.shields.io/badge/GitHub-1D1D1F?style=flat&logo=github&logoColor=F5F5F7) ![GitLab](https://img.shields.io/badge/GitLab-1D1D1F?style=flat&logo=gitlab&logoColor=F5F5F7) ![Notion](https://img.shields.io/badge/Notion-1D1D1F?style=flat&logo=notion&logoColor=F5F5F7) |
+
+</details>
+
+<br/>
+
+### Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HizbullahHasanIbrahim/HizbullahHasanIbrahim/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HizbullahHasanIbrahim/HizbullahHasanIbrahim/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/HizbullahHasanIbrahim/HizbullahHasanIbrahim/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+### Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.shion.dev/api?username=HizbullahHasanIbrahim&include_all_commits=true&count_private=true&bg_color=161617&title_color=F5F5F7&text_color=A1A1A6&icon_color=2997FF&border_color=2C2C2E&border_radius=14" alt="GitHub Stats" />
+   
+  <img height="170em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=HizbullahHasanIbrahim&include_all_commits=true&count_private=true&layout=compact&bg_color=161617&title_color=F5F5F7&text_color=A1A1A6&border_color=2C2C2E&border_radius=14" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HizbullahHasanIbrahim&background=161617&border=2C2C2E&stroke=2C2C2E&ring=2997FF&fire=2997FF&currStreakNum=F5F5F7&sideNums=F5F5F7&currStreakLabel=2997FF&sideLabels=A1A1A6&dates=86868B&border_radius=14" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HizbullahHasanIbrahim&bg_color=161617&color=A1A1A6&line=2997FF&point=F5F5F7&area=true&area_color=2997FF&hide_border=true&radius=14" width="95%" alt="Contribution Graph" />
+</div>
+
+<br/>
