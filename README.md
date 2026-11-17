@@ -48,23 +48,6 @@ const developer = {
 };
 ```
 
-<br/>
-
-### Featured Projects
-
-<div align="center">
-  <a href="https://github.com/HizbullahHasanIbrahim/Porto-Pixel">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HizbullahHasanIbrahim&repo=Porto-Pixel&bg_color=161617&title_color=F5F5F7&text_color=A1A1A6&icon_color=2997FF&border_color=2C2C2E&border_radius=14" alt="Porto-Pixel" />
-  </a>
-   
-  <!-- Ganti NAMA-REPO-LAIN dengan nama repositori publik lainnya -->
-  <a href="https://github.com/HizbullahHasanIbrahim/NAMA-REPO-LAIN">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=HizbullahHasanIbrahim&repo=NAMA-REPO-LAIN&bg_color=161617&title_color=F5F5F7&text_color=A1A1A6&icon_color=2997FF&border_color=2C2C2E&border_radius=14" alt="Featured Project 2" />
-  </a>
-</div>
-
-<br/>
-
 ### Tech Stack
 
 <details open>
@@ -81,20 +64,6 @@ const developer = {
 | **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-1D1D1F?style=flat&logo=figma&logoColor=F5F5F7) ![Framer](https://img.shields.io/badge/Framer-1D1D1F?style=flat&logo=framer&logoColor=F5F5F7) ![Canva](https://img.shields.io/badge/Canva-1D1D1F?style=flat&logo=Canva&logoColor=F5F5F7) ![Docker](https://img.shields.io/badge/Docker-1D1D1F?style=flat&logo=docker&logoColor=F5F5F7) ![Git](https://img.shields.io/badge/Git-1D1D1F?style=flat&logo=git&logoColor=F5F5F7) ![GitHub](https://img.shields.io/badge/GitHub-1D1D1F?style=flat&logo=github&logoColor=F5F5F7) ![GitLab](https://img.shields.io/badge/GitLab-1D1D1F?style=flat&logo=gitlab&logoColor=F5F5F7) ![Notion](https://img.shields.io/badge/Notion-1D1D1F?style=flat&logo=notion&logoColor=F5F5F7) |
 
 </details>
-
-<br/>
-
-### Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HizbullahHasanIbrahim/HizbullahHasanIbrahim/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HizbullahHasanIbrahim/HizbullahHasanIbrahim/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/HizbullahHasanIbrahim/HizbullahHasanIbrahim/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
 
 ### Analytics
 
